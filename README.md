@@ -2,7 +2,7 @@
 
 
 In this Repository I wanted to refresh my mind about 'REAL' programming, and how it was hard back then to program, when you didn't had 
-any library and api's. In order to solve a problem you had to be conscious about every bite you spend. 
+any library and api's. In order to solve a problem you had to be conscious about every byte you spend. 
 
 
 I will finish this README with two quotes from my favorite computer scientists.
